@@ -1,14 +1,14 @@
-# ECB Rates and Bank Lending, 2019–2023
+# ECB Rates and Bank Lending, 2019–2025
 
 How euro area bank lending rates and volumes reacted to the ECB policy rate cycle, January
-2019 – January 2023: mortgages by rate fixation period, consumer and revolving credit to
+2019 – January 2025: mortgages by rate fixation period, consumer and revolving credit to
 households, and loans to corporations by size. Monthly ECB statistics.
 
-**Bottom line.** The 450 basis points of MRO hikes between July 2022 and September 2023 passed
+**Bottom line.** The 450 basis points of MRO hikes between July 2022 and September 2025 passed
 through to lending rates unevenly. Rates on corporate loans rose by about three quarters of the
 policy rate increase, mortgage rates by about half. Volumes reacted most where borrowers
 commit for longest: new mortgages with rate fixation over 10 years fell by almost half from
-2021 to 2023, while corporate and consumer lending volumes held broadly steady.
+2021 to 2025, while corporate and consumer lending volumes held broadly steady.
 
 ## Project overview
 
@@ -43,10 +43,10 @@ is carried forward until its next change.
 
 | Series | Jan 2019 | Low | Peak | Jan 2025 | Pass-through |
 |---|---|---|---|---|---|
-| MRO | 0.00 | 0.00 | 4.50 (Sep 2023) | 3.15 | — |
-| Corporations | 1.44 | 1.22 (Mar 2021) | 5.25 (Oct 2023) | 4.12 | 0.76 |
+| MRO | 0.00 | 0.00 | 4.50 (Sep 2025) | 3.15 | — |
+| Corporations | 1.44 | 1.22 (Mar 2021) | 5.25 (Oct 2025) | 4.12 | 0.76 |
 | Households, consumption | 6.77 | 5.68 (Dec 2021) | 8.35 (Feb 2024) | 8.03 | 0.59 |
-| Mortgages | 1.81 | 1.30 (Jun 2021) | 4.06 (Nov 2023) | 3.14 | 0.48 |
+| Mortgages | 1.81 | 1.30 (Jun 2021) | 4.06 (Nov 2025) | 3.14 | 0.48 |
 
 - **Corporate rates move fastest and furthest.** Most corporate loans are at variable or short
   fixed rates, so their price follows money-market rates within months.
@@ -58,7 +58,7 @@ is carried forward until its next change.
 
 **New lending volumes**, monthly average, EUR bn:
 
-| Loan type | 2021 | 2023 | Change |
+| Loan type | 2021 | 2025 | Change |
 |---|---|---|---|
 | Mortgages, all | 87.4 | 56.7 | −35% |
 | Mortgages, fixation over 10 years | 52.6 | 28.1 | −47% |
