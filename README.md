@@ -1,7 +1,7 @@
-# ECB Rates and Bank Lending, 2019–2025
+# ECB Rates and Bank Lending, 2019–2023
 
 How euro area bank lending rates and volumes reacted to the ECB policy rate cycle, January
-2019 – January 2025: mortgages by rate fixation period, consumer and revolving credit to
+2019 – January 2023: mortgages by rate fixation period, consumer and revolving credit to
 households, and loans to corporations by size. Monthly ECB statistics.
 
 **Bottom line.** The 450 basis points of MRO hikes between July 2022 and September 2023 passed
