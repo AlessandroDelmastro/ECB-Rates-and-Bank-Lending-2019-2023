@@ -111,10 +111,3 @@ The ECB's tightening reached corporate borrowers quickly and almost fully, and m
 borrowers only partially, because of how their loans are priced. The adjustment in quantities
 was concentrated in long-term fixed-rate mortgages, while lending to firms and consumer credit
 remained broadly stable through the whole cycle.
-
-## Credits
-
-Group project for the Banking course of the MSc in Applied Data Science for Banking and Finance,
-Università Cattolica del Sacro Cuore, with Arianna Pellizzari, Michele Fornari, Herman Myrlid
-and Marco Macioni. This repository contains a cleaned-up and corrected version of the original
-analysis.
