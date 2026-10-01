@@ -1,5 +1,4 @@
 ################################################################################
-# Case Study 2 - ECB Rates and Bank Lending, 2019-2025
 #
 # How did euro area bank lending rates and volumes react to the ECB policy rate cycle?
 # Monthly euro area series from the ECB Data Portal (MFI interest rates and volumes, HICP,
